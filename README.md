@@ -1,8 +1,18 @@
-# todo
+# Simple To-Do App
 
 A new Flutter project.
 
 ## Getting Started
+
+### Project showcase
+
+<p align="center">
+  <img src="https://github.com/AppleStalker/simple-todo/blob/main/assets/screenshots/1.png" alt="Image 1" width="150"/>
+  <img src="https://github.com/AppleStalker/simple-todo/blob/main/assets/screenshots/2.png" alt="Image 2" width="150"/>
+  <img src="https://github.com/AppleStalker/simple-todo/blob/main/assets/screenshots/3.png" alt="Image 3" width="150"/>
+  <img src="https://github.com/AppleStalker/simple-todo/blob/main/assets/screenshots/4.png" alt="Image 3" width="150"/>
+
+</p>
 
 This project is a starting point for a Flutter application.
 
